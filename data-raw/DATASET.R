@@ -54,7 +54,8 @@ customer_lookup = list(
     queenmary = "749612_d9m1v",
     harveywalsh = "596002_v3n9j",
     neqos = "10328_s0h5j",
-    imperialesc = "754175_w2z4t"
+    imperialesc = "754175_w2z4t",
+    londontropical = "779433_q9r8n"
 )
 
 
