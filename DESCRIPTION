@@ -1,5 +1,5 @@
-Package: TREDD
-Title: Trusted Research Environment Service Data Dictionary
+Package: SDEDD
+Title: Secure Data Environment Service Data Dictionary
 Version: 2.0.0
 Authors@R: 
     person("Shoaib", "Ajaib", , "shoaib.ajaib1@nhs.com", role = c("aut", "cre"))
