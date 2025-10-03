@@ -2,8 +2,7 @@
 
 This package contains a collection of functions that can be used to generate a coherent, visually appealing (sort of 🤔) data dictionary which details the datasets available in a NHS England's secure data environment (SDE), formerly the Trusted Research Environment (TRE).
 
-The package has one main function `generate_dd()` which returns a formatted data dictionary in the form of an excel workbook, where each sheet will correspond to a specific dataset. The function will also generate a home tab, which contains a drop-down list of all the datasets available in the workbook and a reference data
-tab.
+The package has one main function `generate_dd()` which returns a formatted data dictionary in the form of an excel workbook, where each sheet will correspond to a specific dataset. The function will also generate a home tab, which contains a drop-down list of all the datasets available in the workbook and a reference data tab.
 
 ## Proof of Concept - Moving Data Dictionary in the SDE
 
