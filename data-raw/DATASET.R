@@ -57,7 +57,8 @@ customer_lookup = list(
     imperialesc = "754175_w2z4t",
     imperialpelvic = "776195_h7w4d",
     londontropical = "779433_q9r8n",
-    synapsysiq = "782158_w5v8c"
+    synapsysiq = "782158_w5v8c",
+    cambridge = "771170_y3j8z"
 )
 
 
