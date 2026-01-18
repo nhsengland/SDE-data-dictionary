@@ -59,7 +59,8 @@ customer_lookup = list(
     londontropical = "779433_q9r8n",
     ucl_cl_psrc = "756900_q2j3k",
     synapsysiq = "782158_w5v8c",
-    cambridge = "771170_y3j8z"
+    cambridge = "771170_y3j8z",
+    certara = "698157_b0l5b"
 )
 
 
