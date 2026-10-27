@@ -12,6 +12,7 @@ expected = list(
 split_tables_lookup = list(
     nat_cancer_reg = c("^cancer_?reg", "^national_?cancer_?reg"),
     rapid_cancer_reg = c("^(proxy|rapid)(_cancer)?_?reg", "^(proxy|rapid)(_cancer)?_?reg"),
+    sact = c("^sact","^sact"),
     rtds = c("^rtds","^rtds"),
     rdc = c("^rdc", "^rdc"),
     mental_health = c("(?i)^mhsds_v6","(?i)^mhsds_v6"),
